@@ -1,7 +1,7 @@
 # google-maps-travel-time
 Google Sheets utility to fetch real-time travel times data using Google Directions API.
 ## Retrieve Real-Time Travel Times Data with Google Sheets
-Link to Google Sheets: https://docs.google.com/spreadsheets/d/1_bfzHTEkwcLAnlFnZ1TTojtqJFJfM9ez62ZRmvHAwss/edit?usp=sharing
+Link to [Example Google Sheets](https://docs.google.com/spreadsheets/d/1_bfzHTEkwcLAnlFnZ1TTojtqJFJfM9ez62ZRmvHAwss/edit?usp=sharing)
 ### Instructions
 #### Create a copy with your own Google Sheets
 - Create a blank Google Sheets file
@@ -11,7 +11,7 @@ Link to Google Sheets: https://docs.google.com/spreadsheets/d/1_bfzHTEkwcLAnlFnZ
 - In the Assign Scrip window, paste in "writeCurrentVehTT" (the name of the main javascript function)
 #### Enter Required Inputs
 - Google Directions API key: Cell B17
-(link to get API: https://developers.google.com/maps/documentation/directions/get-api-key)
+[link to get API](https://developers.google.com/maps/documentation/directions/get-api-key)
 - Route ID: Column D
 - Start Location*: Column E
 - End Location*: Column F
